@@ -2,7 +2,7 @@
 ##  "smartPark" 智慧停車場泊車系統
 
 <h2>分工時間表
-
+<p>
 <table>
   <tr>
     <th>日期</th>
@@ -60,6 +60,6 @@
     <td>手機 App Presentation Day </td>
     <td>峰、Colin、Raymond 及 Tommy</td>
   </tr>
-</table>
+</table></p>
 
 
