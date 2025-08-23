@@ -1,7 +1,7 @@
 # <h1>手機 App Project 
 ##  "smartPark" 智慧停車場泊車系統
 
-<h2><center>分工時間表</center>
+<h2>分工時間表
 <p>
 <table>
   <tr>
