@@ -58,7 +58,7 @@
   <tr>
     <td>26-10-2025 </td>
     <td>手機 App Presentation Day </td>
-    <td>峰、Colin 及 Tommy</td>
+    <td>峰、Colin、Raymond 及 Tommy</td>
   </tr>
 </table>
 
