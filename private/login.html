@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+    <title>會員登記及登錄頁</title>
+</head>
+<body>
+    <h1>歡迎光臨會員登記及登錄頁</h1>
+    
+     <form action="/register" method="POST">
+        <h2>會員登記 Register</h2>
+        
+        <p><label for="new-username">英文姓名：</label>
+        <input type="text" id="new-username" name="username" required>
+        <br></p>
+
+        <p><label for="new-username">中文姓名：</label>
+        <input type="text" id="new-username" name="username" required>
+        <br></p>
+       
+        <p><label for="new-password">詳細住址：</label>
+        <input type="text" id="text1" name="text1" required>
+        <br>
+
+        <p><label for="new-password">電郵地址：</label>
+        <input type="text" id="text1" name="text1" required>
+        <br>
+
+        <p><label for="new-password">電話號碼：</label>
+        <input type="tel" id="telephone" name="telephone" required>
+        <br></p>
+
+        <button type="submit">會員登記 Register</button>
+    </form>
+
+    <form action="/login" method="POST">
+        <h2>會員登錄 Login</h2>
+        <p>請輸入您的電郵地址：</p>
+        <label for="username">電郵地址:</label>
+        <input type="text" id="username" name="username" required>
+        <br>
+        <p>請輸入您的密碼：</p>
+        <p><label for="password">密碼:</label>
+        <input type="password" id="password" name="password" required>
+        <br></p>
+        <button type="submit">會員登錄Login</button>
+    </form>
+   <p><h3><a href="../public/index.html">前往主頁</a></h3></p>
+
+    
+</body>
+</html>

@@ -1,8 +1,29 @@
-<h1>
-Testing Before start of the project
+# <h1>手機 App Project 
+##  "smartPark" 智慧停車場泊車系統
 
-<h3>
-Let's hardworking and work together for this project!<p>
-Tommy, please tell me what your goal is in this course? In other words, what do you want to get from this course at the end of the 3rd module of this elective group?!<p>
-I want to get IT code knowlege,and want to do IT works.!<p>
-Good job, Tommy. Keep going.<p>
+
+
+
+
+
+<h2>
+
+
+|   分工時間          |         |   表
+| ------------- | ------------- |--------
+|      
+|  
+       日期          工作進度    負責的組員
+    -----------| ------------- |---------------|
+    24-08-2025 |完成 index.html |   A.I.及峰    |
+    31-08-2025 |完成 css.html | Colin 及 Raymond |
+    07-09-2025 |member register |               |
+    14-09-2025 |member login    |               |
+    21-09-2025 |search engine   |               |
+    28-09-2025 |                |               |
+    05-10-2025 |                |               |
+    12-10-2025 |                |               |
+    19-10-2025 |                |               |
+    26-10-2025 |  Present Day   |               |
+
+ ------------------| ---------------------|------------------------|

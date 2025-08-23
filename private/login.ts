@@ -1,0 +1,1 @@
+window.location.href = "../private/login.html";
